@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	str2 := "veek3Shit78ha"
+	str2 := "mohan@123"
 
 	for _, v := range str2 {
 		if v >= 97 && v <= 122 {
